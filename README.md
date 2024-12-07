@@ -7,3 +7,4 @@ This repository contains my curated solutions to a wide range of LeetCode proble
 1. TwoSum (`two-sum.md`)
 9. Palindrome Number (`palindrome-number.md`)
 13. Roman To Integer (`roman-to-integer.md`)
+14. Longest Common Prefix (`longest-common-prefix.md`)
