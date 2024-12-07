@@ -8,3 +8,4 @@ This repository contains my curated solutions to a wide range of LeetCode proble
 9. Palindrome Number (`palindrome-number.md`)
 13. Roman To Integer (`roman-to-integer.md`)
 14. Longest Common Prefix (`longest-common-prefix.md`)
+58. Length Of Last Word (`length-of-last-word.md`)
