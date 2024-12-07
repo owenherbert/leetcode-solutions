@@ -5,3 +5,4 @@ This repository contains my curated solutions to a wide range of LeetCode proble
 ## Solutions
 
 1. TwoSum (`two-sum.md`)
+9. Palindrome Number (`palindrome-number.md`)
