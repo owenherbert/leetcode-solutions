@@ -4,9 +4,9 @@ This repository contains my curated solutions to a wide range of LeetCode proble
 
 ## Solutions
 
-1. TwoSum (`two-sum.md`)
-9. Palindrome Number (`palindrome-number.md`)
-13. Roman To Integer (`roman-to-integer.md`)
-14. Longest Common Prefix (`longest-common-prefix.md`)
-58. Length Of Last Word (`length-of-last-word.md`)
-217. Contains Duplicate (`contains-duplicate.md`)
+1. [EASY] TwoSum (`two-sum.md`)
+9. [EASY] Palindrome Number (`palindrome-number.md`)
+13. [EASY] Roman To Integer (`roman-to-integer.md`)
+14. [EASY] Longest Common Prefix (`longest-common-prefix.md`)
+58. [EASY] Length Of Last Word (`length-of-last-word.md`)
+217. [EASY] Contains Duplicate (`contains-duplicate.md`)
